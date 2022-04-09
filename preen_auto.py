@@ -4,14 +4,14 @@ from fpdf import FPDF
 arquivo = []
 pos = []
 vazio = '*'
-'''
+
 nome = input('Digite o nome:  ')
 RG = input('Digite o RG: ')
 CPF = input('Digite o CPF:  ')
 
 texto_info = [nome, RG, CPF]
 
-'''
+
  
 
 
